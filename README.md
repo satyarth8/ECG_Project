@@ -1,4 +1,4 @@
-# AI-Based Real-Time ECG Anomaly Detection System
+# AI-Powered Real-Time ECG Anomaly Detection System
 
 > **Final Year Project** — ESP32 + AD8232 + Random Forest + Real-Time Web Dashboard
 Slide :https://docs.google.com/presentation/d/1WCODxqY1NNHRyLQVIZKMnhqAkkMkOI6z_rHUC1bUbVA/edit?usp=sharing
